@@ -1,3 +1,3 @@
 # maven-project
 
-Simple Maven Project
+Insecure Simple Maven Project for Conjur Demo
